@@ -1,5 +1,44 @@
 Classes,Identação e CamelCase
 
 
-constantes em java:
-final double VALOR_DE_PI = 3.14;
+Constantes em java:
+	final double VALOR_DE_PI = 3.14;
+
+
+Operadores matemáticos
+
+Métodos
+
+	exemplo com smartTv
+
+Escopo
+
+Palavras Reservadas
+
+Java Doc
+
+Estruturas Condicionais
+
+	switch case
+
+Estruturas de repetição
+	utilizando o laço for:
+
+	public static void main(String[] args) {
+        	for (int carneirinhos = 0; carneirinhos <= 20; carneirinhos ++ ) {
+            	System.out.println("Contando carneirinhos " + carneirinhos);
+        }
+
+
+
+	laço for em arrays:
+	public static void main(String[] args) {
+        
+        	String alunos [] = {"Willian", "Raissa", "Ranya"};
+
+        for(String aluno : alunos) {
+           	System.out.println("Nome do aluno: " + aluno);
+        }
+
+
+Do e do while
