@@ -42,3 +42,6 @@ Estruturas de repetição
 
 
 Do e do while
+
+Estruturas Excepcionais
+	Try/Catch
